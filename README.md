@@ -1,6 +1,13 @@
 # HMRC-MOD29
 Extended MOD29 for generating IRIS references, along with calculator for Admin Period income and calculator for multiple CEGs.
 
+## Download instructions
+Before this excel sheet can be used, you must enable the macros.
+1. Right click the downloaded file and press properties <br> <img width="396" height="299" alt="image" src="https://github.com/user-attachments/assets/3b4f0e62-22cc-4d76-9a89-e2c1bcad6825" />
+2. At the bottom of the 'General' tab, select the 'Unblock' checkbox and select 'OK'. <img width="379" height="499" alt="image" src="https://github.com/user-attachments/assets/3ec11d46-fe61-4e68-92a1-6ea07e8a4de1" />
+3. Open and use
+
+
 ## How to use
 ### IRIS Generator
 1. Copy a NINO to your clipboard
